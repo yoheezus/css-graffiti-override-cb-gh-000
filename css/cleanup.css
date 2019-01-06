@@ -3,3 +3,11 @@
 #wall > div {
     display: none;
 }
+
+#wall #tag-2 {
+    display: none;
+}
+
+#wall .slick_wicked {
+    display: none;
+}
