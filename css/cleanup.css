@@ -4,7 +4,7 @@
     display: none;
 }
 
-#wall #tag-2.[background-image^="url"] {
+#wall div[background-image^="url"] {
     display: none;
 }
 
