@@ -4,7 +4,7 @@
     display: none;
 }
 
-#wall #tag2[background-image*="/tag-2.png"] {
+#wall div.#tag2 {
     display: none;
 }
 
